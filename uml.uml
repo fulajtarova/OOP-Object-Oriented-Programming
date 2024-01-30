@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/Laura/Desktop/oop-2023-str-16-b-frtala-fulajtarova/src/main/java/com/example/triparchitect</OriginalElement>
+  <nodes>
+    <node x="4403.260119047621" y="2069.0">com.example.triparchitect.trips.LuxuryAdventureSeekerTrip</node>
+    <node x="2267.1424107142875" y="1503.0">com.example.triparchitect.LoginController</node>
+    <node x="2778.3924107142875" y="1479.0">com.example.triparchitect.EditTripsController</node>
+    <node x="4890.544345238095" y="870.5">com.example.triparchitect.trips.TripExtras</node>
+    <node x="333.26741071428705" y="1845.0">com.example.triparchitect.exceptions.YouCantBeSenior</node>
+    <node x="3263.8924107142875" y="-14.0">com.example.triparchitect.decorator.Item</node>
+    <node x="4783.260119047621" y="1819.5">com.example.triparchitect.trips.CultureExplorerTrip</node>
+    <node x="5387.767410714287" y="1503.0">com.example.triparchitect.ShareController</node>
+    <node x="5403.458333333334" y="1819.5">com.example.triparchitect.trips.FoodieTrip</node>
+    <node x="560.267410714287" y="1845.0">com.example.triparchitect.exceptions.YouCantBeStudentAndSenior</node>
+    <node x="2534.1424107142875" y="1549.5">com.example.triparchitect.users.User.CultureExplorer</node>
+    <node x="611.2601190476203" y="230.0">com.example.triparchitect.discounts.DiscountStrategy</node>
+    <node x="78.26741071428705" y="1807.5">com.example.triparchitect.users.Student</node>
+    <node x="6060.517410714287" y="1527.0">com.example.triparchitect.SerializationUtils</node>
+    <node x="3083.9583333333335" y="2055.5">com.example.triparchitect.packages.CultureExplorerPackage</node>
+    <node x="1976.7674107142875" y="1549.5">com.example.triparchitect.users.User.NatureLover</node>
+    <node x="3199.3924107142875" y="204.5">com.example.triparchitect.decorator.ItemDecorator</node>
+    <node x="5445.26011904762" y="2069.0">com.example.triparchitect.ResultHolder</node>
+    <node x="4885.544345238095" y="1464.0">com.example.triparchitect.trips.Trip</node>
+    <node x="4968.26011904762" y="2069.0">com.example.triparchitect.trips.LuxuryNatureLoverTrip</node>
+    <node x="5052.517410714287" y="2334.5">com.example.triparchitect.trips.TripFactory</node>
+    <node x="712.0" y="1551.0">com.example.triparchitect.users.User.SeniorBonus</node>
+    <node x="4249.260119047621" y="1491.0">com.example.triparchitect.CreateTripController</node>
+    <node x="1954.2674107142875" y="434.0">com.example.triparchitect.users.User</node>
+    <node x="4166.260119047621" y="2055.5">com.example.triparchitect.packages.FoodiePackage</node>
+    <node x="5513.767410714287" y="2334.5">com.example.triparchitect.weather.WeatherService</node>
+    <node x="3689.0101190476207" y="1503.0">com.example.triparchitect.AddToBPController</node>
+    <node x="3109.2674107142875" y="2261.0">com.example.triparchitect.CombinedTableEntry</node>
+    <node x="4499.510119047621" y="1819.5">com.example.triparchitect.trips.AdventureSeekerTrip</node>
+    <node x="3487.2674107142875" y="2334.5">com.example.triparchitect.weather.WeatherActivityFactory</node>
+    <node x="5046.26011904762" y="1819.5">com.example.triparchitect.trips.NatureLoverTrip</node>
+    <node x="3852.2674107142875" y="2334.5">com.example.triparchitect.packages.PackageFactory</node>
+    <node x="3342.9583333333335" y="2021.0">com.example.triparchitect.RegisterController</node>
+    <node x="1517.2571428571428" y="2737.6881632653062">com.example.triparchitect.Main</node>
+    <node x="1114.2674107142873" y="1845.0">com.example.triparchitect.exceptions.YouCantBeStudent</node>
+    <node x="5562.642410714287" y="758.0">com.example.triparchitect.users.Share</node>
+    <node x="3655.2601190476207" y="2055.5">com.example.triparchitect.packages.AdventureSeekerPackage</node>
+    <node x="1702.7674107142873" y="1549.5">com.example.triparchitect.users.User.Foodie</node>
+    <node x="4667.6424107142875" y="2560.0">com.example.triparchitect.HomeController</node>
+    <node x="1466.7674107142873" y="1549.5">com.example.triparchitect.users.User.AdventureSeeker</node>
+    <node x="3926.2601190476207" y="2055.5">com.example.triparchitect.packages.NatureLoverPackage</node>
+    <node x="784.0" y="857.0">com.example.triparchitect.discounts.SeniorDiscountStrategy</node>
+    <node x="1601.5101190476205" y="230.0">com.example.triparchitect.users.User.UserObserver</node>
+    <node x="1728.2571428571428" y="2737.6881632653062">com.example.triparchitect.CarAnimationController</node>
+    <node x="1232.7674107142873" y="1563.0">com.example.triparchitect.users.User.UserNotification</node>
+    <node x="3190.8924107142875" y="845.0">com.example.triparchitect.decorator.PersonalizedItem</node>
+    <node x="-139.0" y="857.0">com.example.triparchitect.discounts.StudentDiscountStrategy</node>
+    <node x="3800.0101190476207" y="1806.0">com.example.triparchitect.packages.Package</node>
+    <node x="5222.26011904762" y="2069.0">com.example.triparchitect.trips.LuxuryFoodieTrip</node>
+    <node x="859.267410714287" y="1807.5">com.example.triparchitect.users.Senior</node>
+    <node x="4692.260119047621" y="2069.0">com.example.triparchitect.trips.LuxuryCultureExplorerTrip</node>
+    <node x="2375.7601190476207" y="203.0">com.example.triparchitect.users.User.UserType</node>
+    <node x="5.336011904761563" y="1551.0">com.example.triparchitect.users.User.StudentBonus</node>
+    <node x="5708.767410714287" y="2309.0">com.example.triparchitect.weather.Weather</node>
+    <node x="1387.5101190476205" y="218.0">com.example.triparchitect.users.User.Bonus</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.example.triparchitect.packages.Package" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-1.190476205010782E-4" y="-70.5" />
+      <point x="3908.51" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.AddToBPController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-1.190476205010782E-4" y="105.0" />
+      <point x="3793.51" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.ShareController" target="com.example.triparchitect.users.Share" relationship="CREATE">
+      <point x="104.49958928571323" y="-0.0" />
+      <point x="5752.0" y="1608.0" />
+      <point x="5752.0" y="1412.0" />
+      <point x="5720.142" y="1412.0" />
+      <point x="-4.1071428677241784E-4" y="144.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.exceptions.YouCantBeSenior" relationship="CREATE">
+      <point x="29.9996666666666" y="-93.0" />
+      <point x="3477.458" y="1999.0" />
+      <point x="436.76741071428705" y="1999.0" />
+      <point x="-0.0" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.SeniorBonus" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="45.0" y="-57.0" />
+      <point x="847.0" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.CultureExplorerTrip" target="com.example.triparchitect.trips.Trip" relationship="GENERALIZATION">
+      <point x="0.0" y="-57.0" />
+      <point x="4888.760119047621" y="1784.0" />
+      <point x="5066.044345238095" y="1784.0" />
+      <point x="0.0" y="144.0" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.FoodiePackage" target="com.example.triparchitect.packages.Package" relationship="GENERALIZATION">
+      <point x="0.0" y="-58.5" />
+      <point x="4274.760119047621" y="1979.0" />
+      <point x="3908.5101190476207" y="1979.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.AdventureSeeker" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="-54.0" y="-58.5" />
+      <point x="1520.7674107142873" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.LuxuryFoodieTrip" relationship="CREATE">
+      <point x="121.5" y="-45.0" />
+      <point x="-20.742708333333212" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Student" target="com.example.triparchitect.users.User" relationship="GENERALIZATION">
+      <point x="78.33333333333333" y="-69.0" />
+      <point x="274.10074404762054" y="1784.0" />
+      <point x="555.267410714287" y="1784.0" />
+      <point x="555.267410714287" y="1442.0" />
+      <point x="967.0" y="1442.0" />
+      <point x="967.0" y="1402.0" />
+      <point x="1990.6424107142875" y="1402.0" />
+      <point x="-109.125" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.UserType" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="-72.0" y="58.5" />
+      <point x="2411.7601190476207" y="352.0" />
+      <point x="1600.0101190476205" y="352.0" />
+      <point x="1600.0101190476205" y="412.0" />
+      <point x="2027.0174107142875" y="412.0" />
+      <point x="-72.75" y="-468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.LuxuryAdventureSeekerTrip" target="com.example.triparchitect.trips.AdventureSeekerTrip" relationship="GENERALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="4537.260119047621" y="1999.0" />
+      <point x="4554.510119047621" y="1999.0" />
+      <point x="-55.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.weather.Weather" relationship="TO_ONE">
+      <point x="147.0" y="51.0" />
+      <point x="5810.267410714287" y="2945.5" />
+      <point x="-0.0" y="70.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User" target="com.example.triparchitect.users.User.Bonus" relationship="TO_ONE">
+      <point x="-145.5" y="15.0" />
+      <point x="1439.2674107142873" y="917.0" />
+      <point x="-38.24270833333321" y="43.5" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.PackageFactory" target="com.example.triparchitect.packages.CultureExplorerPackage" relationship="CREATE">
+      <point x="-0.0" y="-45.0" />
+      <point x="4005.2674107142875" y="2228.5" />
+      <point x="3203.4583333333335" y="2228.5" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.Trip" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="14.999654761904821" y="144.0" />
+      <point x="5081.044" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.StudentBonus" target="com.example.triparchitect.users.User.Bonus" relationship="REALIZATION">
+      <point x="-45.0" y="-57.0" />
+      <point x="50.33601190476156" y="1442.0" />
+      <point x="120.5" y="1442.0" />
+      <point x="120.5" y="412.0" />
+      <point x="667.0101190476203" y="412.0" />
+      <point x="667.0101190476203" y="362.0" />
+      <point x="1417.5101190476205" y="362.0" />
+      <point x="-60.0" y="43.5" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.AdventureSeekerPackage" target="com.example.triparchitect.packages.Package" relationship="GENERALIZATION">
+      <point x="0.0" y="-58.5" />
+      <point x="3780.7601190476207" y="1979.0" />
+      <point x="3908.5101190476207" y="1979.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="com.example.triparchitect.decorator.ItemDecorator" target="com.example.triparchitect.decorator.Item" relationship="TO_ONE">
+      <point x="54.0" y="-57.0" />
+      <point x="-0.0" y="82.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.ResultHolder" relationship="CREATE">
+      <point x="129.0" y="-0.0" />
+      <point x="5496.267410714287" y="2379.5" />
+      <point x="-40.99270833333321" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.exceptions.YouCantBeStudent" relationship="CREATE">
+      <point x="-84.06592261904598" y="-93.0" />
+      <point x="3363.3924107142875" y="1885.5" />
+      <point x="107.5" y="9.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.LuxuryFoodieTrip" target="com.example.triparchitect.trips.FoodieTrip" relationship="GENERALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="5323.76011904762" y="1999.0" />
+      <point x="5454.458333333334" y="1999.0" />
+      <point x="-51.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User.NatureLover" relationship="CREATE">
+      <point x="-104.5" y="-76.0" />
+      <point x="2084.7674107142875" y="2038.0" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.CreateTripController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-1.190476205010782E-4" y="117.0" />
+      <point x="4375.76" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.NatureLoverPackage" target="com.example.triparchitect.packages.Package" relationship="GENERALIZATION">
+      <point x="0.0" y="-58.5" />
+      <point x="4036.2601190476207" y="1979.0" />
+      <point x="3908.5101190476207" y="1979.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.FoodieTrip" relationship="CREATE">
+      <point x="-15.0" y="45.0" />
+      <point x="5166.517410714287" y="2909.5" />
+      <point x="6068.017410714287" y="2909.5" />
+      <point x="6068.017410714287" y="1876.5" />
+      <point x="102.0" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.UserNotification" target="com.example.triparchitect.users.User.UserObserver" relationship="REALIZATION">
+      <point x="-53.5" y="-45.0" />
+      <point x="1286.2674107142873" y="1422.0" />
+      <point x="1339.8333333333335" y="1422.0" />
+      <point x="1339.8333333333335" y="402.0" />
+      <point x="1637.1767857142872" y="402.0" />
+      <point x="-71.33333333333326" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User" target="com.example.triparchitect.discounts.DiscountStrategy" relationship="TO_ONE">
+      <point x="-145.50041071428745" y="62.5" />
+      <point x="952.0" y="964.5" />
+      <point x="952.0" y="1761.0" />
+      <point x="217.26" y="1761.0" />
+      <point x="217.26" y="261.5" />
+      <point x="-117.50011904762027" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.Trip" target="com.example.triparchitect.trips.TripExtras" relationship="REALIZATION">
+      <point x="90.24999999999994" y="-144.0" />
+      <point x="5156.294345238095" y="1412.0" />
+      <point x="5071.044345238095" y="1412.0" />
+      <point x="0.0" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User" target="com.example.triparchitect.users.User.UserObserver" relationship="TO_MANY">
+      <point x="-145.5" y="-0.0" />
+      <point x="1723.5101190476205" y="902.0" />
+      <point x="15.0" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User.AdventureSeeker" relationship="CREATE">
+      <point x="-69.06592261904598" y="-93.0" />
+      <point x="3378.3924107142875" y="1870.5" />
+      <point x="1574.7674107142873" y="1870.5" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.UserObserver" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="0.0" y="31.5" />
+      <point x="1708.5101190476205" y="352.0" />
+      <point x="1600.0101190476205" y="352.0" />
+      <point x="1600.0101190476205" y="412.0" />
+      <point x="2027.0174107142875" y="412.0" />
+      <point x="-72.75" y="-468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.trips.TripFactory" relationship="TO_ONE">
+      <point x="147.0" y="-45.0" />
+      <point x="5181.517410714287" y="2849.5" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.EditTripsController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-4.1071428768191254E-4" y="129.0" />
+      <point x="2964.892" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.LuxuryAdventureSeekerTrip" relationship="CREATE">
+      <point x="-129.0" y="-30.0" />
+      <point x="4537.260119047621" y="2349.5" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.NatureLover" target="com.example.triparchitect.users.User.UserType" relationship="GENERALIZATION">
+      <point x="54.0" y="-58.5" />
+      <point x="2138.7674107142875" y="1422.0" />
+      <point x="2255.7674107142875" y="1422.0" />
+      <point x="2255.7674107142875" y="402.0" />
+      <point x="2384.8333333333335" y="402.0" />
+      <point x="2384.8333333333335" y="342.0" />
+      <point x="2483.7601190476207" y="342.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.FoodieTrip" target="com.example.triparchitect.trips.Trip" relationship="GENERALIZATION">
+      <point x="0.0" y="-57.0" />
+      <point x="5505.458333333334" y="1784.0" />
+      <point x="5066.044345238095" y="1784.0" />
+      <point x="0.0" y="144.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.NatureLover" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="-54.0" y="-58.5" />
+      <point x="2030.7674107142875" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.AdventureSeekerTrip" relationship="CREATE">
+      <point x="21.0" y="45.0" />
+      <point x="5202.517410714287" y="2930.5" />
+      <point x="6299.017410714287" y="2930.5" />
+      <point x="6299.017410714287" y="740.5" />
+      <point x="4594.510119047621" y="740.5" />
+      <point x="-15.0" y="-57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.SerializationUtils" target="com.example.triparchitect.users.Share" relationship="CREATE">
+      <point x="-110.50041071428677" y="-0.0" />
+      <point x="5752.0" y="1608.0" />
+      <point x="5752.0" y="1412.0" />
+      <point x="5720.142" y="1412.0" />
+      <point x="-4.1071428677241784E-4" y="144.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.trips.TripFactory" relationship="CREATE">
+      <point x="14.999589285712318" y="-334.5" />
+      <point x="4829.642" y="2379.5" />
+      <point x="-129.0" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.discounts.StudentDiscountStrategy" target="com.example.triparchitect.discounts.DiscountStrategy" relationship="REALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="-15.0" y="402.0" />
+      <point x="232.26011904762026" y="402.0" />
+      <point x="232.26011904762026" y="382.0" />
+      <point x="670.0101190476203" y="382.0" />
+      <point x="-58.75" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Senior" target="com.example.triparchitect.users.User" relationship="GENERALIZATION">
+      <point x="0.0" y="-69.0" />
+      <point x="976.8360119047618" y="1442.0" />
+      <point x="967.0" y="1442.0" />
+      <point x="967.0" y="1402.0" />
+      <point x="1990.6424107142875" y="1402.0" />
+      <point x="-109.125" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.weather.WeatherService" relationship="TO_ONE">
+      <point x="147.0" y="81.0" />
+      <point x="5586.267410714287" y="2975.5" />
+      <point x="-15.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.LuxuryNatureLoverTrip" relationship="CREATE">
+      <point x="-96.75729166666679" y="-45.0" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.exceptions.YouCantBeStudentAndSenior" relationship="CREATE">
+      <point x="-0.0" y="93.0" />
+      <point x="3447.4583333333335" y="2243.5" />
+      <point x="699.767410714287" y="2243.5" />
+      <point x="-0.0" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.UserNotification" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="53.5" y="-45.0" />
+      <point x="1393.2674107142873" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-4.1071428768191254E-4" y="-334.5" />
+      <point x="4814.642" y="2190.0" />
+      <point x="3603.0" y="2190.0" />
+      <point x="3603.0" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.weather.WeatherActivityFactory" relationship="CREATE">
+      <point x="-147.0" y="15.0" />
+      <point x="3659.7674107142875" y="2909.5" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Student" target="com.example.triparchitect.discounts.StudentDiscountStrategy" relationship="CREATE">
+      <point x="-117.5" y="-0.0" />
+      <point x="-15.0" y="1876.5" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User.UserNotification" relationship="CREATE">
+      <point x="-34.06592261904598" y="-93.0" />
+      <point x="3413.3924107142875" y="1827.5" />
+      <point x="1346.7674107142873" y="1827.5" />
+      <point x="7.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User.UserType" relationship="TO_ONE">
+      <point x="-3.3333333340124227E-4" y="-93.0" />
+      <point x="3447.458" y="377.0" />
+      <point x="2498.76" y="377.0" />
+      <point x="14.999880952379499" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User.CultureExplorer" relationship="CREATE">
+      <point x="14.999666666666599" y="-93.0" />
+      <point x="3462.458" y="1784.0" />
+      <point x="2642.1424107142875" y="1784.0" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Senior" target="com.example.triparchitect.users.User.SeniorBonus" relationship="CREATE">
+      <point x="-110.0" y="-69.0" />
+      <point x="64.76741071428705" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.PackageFactory" target="com.example.triparchitect.packages.AdventureSeekerPackage" relationship="CREATE">
+      <point x="-145.5" y="-45.0" />
+      <point x="79.00729166666679" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.LuxuryNatureLoverTrip" target="com.example.triparchitect.trips.NatureLoverTrip" relationship="GENERALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="5084.76011904762" y="1999.0" />
+      <point x="5097.26011904762" y="1999.0" />
+      <point x="-51.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Student" target="com.example.triparchitect.discounts.DiscountStrategy" relationship="TO_ONE">
+      <point x="-4.1071428705663493E-4" y="-69.0" />
+      <point x="195.767" y="1761.0" />
+      <point x="217.26" y="1761.0" />
+      <point x="217.26" y="261.5" />
+      <point x="-117.50011904762027" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.AdventureSeeker" target="com.example.triparchitect.users.User.UserType" relationship="GENERALIZATION">
+      <point x="54.0" y="-58.5" />
+      <point x="1628.7674107142873" y="1412.0" />
+      <point x="1933.7674107142875" y="1412.0" />
+      <point x="1933.7674107142875" y="402.0" />
+      <point x="2384.8333333333335" y="402.0" />
+      <point x="2384.8333333333335" y="342.0" />
+      <point x="2483.7601190476207" y="342.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Senior" target="com.example.triparchitect.discounts.SeniorDiscountStrategy" relationship="CREATE">
+      <point x="14.999589285713" y="-69.0" />
+      <point x="89.26700000000005" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.AdventureSeekerTrip" target="com.example.triparchitect.trips.Trip" relationship="GENERALIZATION">
+      <point x="0.0" y="-57.0" />
+      <point x="4609.510119047621" y="1784.0" />
+      <point x="5066.044345238095" y="1784.0" />
+      <point x="0.0" y="144.0" />
+    </edge>
+    <edge source="com.example.triparchitect.discounts.SeniorDiscountStrategy" target="com.example.triparchitect.discounts.DiscountStrategy" relationship="REALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="902.5" y="402.0" />
+      <point x="232.26011904762026" y="402.0" />
+      <point x="232.26011904762026" y="382.0" />
+      <point x="670.0101190476203" y="382.0" />
+      <point x="-58.75" y="31.5" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User.Foodie" relationship="CREATE">
+      <point x="-104.5" y="76.0" />
+      <point x="1810.7674107142873" y="2190.0" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.LoginController" target="com.example.triparchitect.users.User" relationship="CREATE">
+      <point x="-5.809077380954022" y="-105.0" />
+      <point x="2384.8333333333335" y="902.0" />
+      <point x="145.5" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.Senior" relationship="CREATE">
+      <point x="-99.06592261904598" y="-93.0" />
+      <point x="3348.3924107142875" y="1925.5" />
+      <point x="117.5" y="49.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.CombinedTableEntry" relationship="CREATE">
+      <point x="-147.0" y="30.0" />
+      <point x="3288.2674107142875" y="2924.5" />
+      <point x="-0.0" y="118.5" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.weather.WeatherService" relationship="CREATE">
+      <point x="147.0" y="66.0" />
+      <point x="5601.267410714287" y="2960.5" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.PackageFactory" target="com.example.triparchitect.packages.FoodiePackage" relationship="CREATE">
+      <point x="153.0" y="-15.0" />
+      <point x="4274.760119047621" y="2364.5" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.CultureExplorerPackage" target="com.example.triparchitect.packages.Package" relationship="GENERALIZATION">
+      <point x="0.0" y="-58.5" />
+      <point x="3203.4583333333335" y="1979.0" />
+      <point x="3908.5101190476207" y="1979.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.Bonus" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="0.0" y="43.5" />
+      <point x="1477.5101190476205" y="352.0" />
+      <point x="1600.0101190476205" y="352.0" />
+      <point x="1600.0101190476205" y="412.0" />
+      <point x="2027.0174107142875" y="412.0" />
+      <point x="-72.75" y="-468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.AddToBPController" target="com.example.triparchitect.decorator.PersonalizedItem" relationship="CREATE">
+      <point x="-104.5" y="-0.0" />
+      <point x="3288.3924107142875" y="1608.0" />
+      <point x="-0.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.LuxuryCultureExplorerTrip" target="com.example.triparchitect.trips.CultureExplorerTrip" relationship="GENERALIZATION">
+      <point x="0.0" y="-45.0" />
+      <point x="4819.760119047621" y="1999.0" />
+      <point x="4836.010119047621" y="1999.0" />
+      <point x="-52.75" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.decorator.PersonalizedItem" target="com.example.triparchitect.decorator.ItemDecorator" relationship="GENERALIZATION">
+      <point x="0.0" y="-57.0" />
+      <point x="0.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.LuxuryCultureExplorerTrip" relationship="CREATE">
+      <point x="-129.0" y="-15.0" />
+      <point x="4829.642" y="2364.5" />
+      <point x="9.881880952379106" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User" target="com.example.triparchitect.users.User.UserType" relationship="TO_ONE">
+      <point x="-4.1071428768191254E-4" y="-468.0" />
+      <point x="2099.767" y="377.0" />
+      <point x="2498.76" y="377.0" />
+      <point x="14.999880952379499" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.CultureExplorerTrip" relationship="CREATE">
+      <point x="-0.0" y="-45.0" />
+      <point x="5181.517410714287" y="2276.5" />
+      <point x="5646.76011904762" y="2276.5" />
+      <point x="5646.76011904762" y="2038.0" />
+      <point x="4888.760119047621" y="2038.0" />
+      <point x="-0.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.packages.PackageFactory" target="com.example.triparchitect.packages.NatureLoverPackage" relationship="CREATE">
+      <point x="30.992708333333212" y="-45.0" />
+      <point x="-0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.TripFactory" target="com.example.triparchitect.trips.NatureLoverTrip" relationship="CREATE">
+      <point x="10.5" y="45.0" />
+      <point x="5192.017410714287" y="2920.0" />
+      <point x="6078.517410714287" y="2920.0" />
+      <point x="6078.517410714287" y="1803.0" />
+      <point x="5158.76011904762" y="1803.0" />
+      <point x="10.5" y="-57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.CultureExplorer" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="-54.0" y="-58.5" />
+      <point x="2588.1424107142875" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.packages.PackageFactory" relationship="TO_ONE">
+      <point x="-15.000410714287682" y="-334.5" />
+      <point x="4799.642" y="2379.5" />
+      <point x="153.0" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.CultureExplorer" target="com.example.triparchitect.users.User.UserType" relationship="GENERALIZATION">
+      <point x="54.0" y="-58.5" />
+      <point x="2696.1424107142875" y="402.0" />
+      <point x="2384.8333333333335" y="402.0" />
+      <point x="2384.8333333333335" y="342.0" />
+      <point x="2483.7601190476207" y="342.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Senior" target="com.example.triparchitect.discounts.DiscountStrategy" relationship="TO_ONE">
+      <point x="-4.107142869997915E-4" y="-69.0" />
+      <point x="976.767" y="1761.0" />
+      <point x="217.26" y="1761.0" />
+      <point x="217.26" y="261.5" />
+      <point x="-117.50011904762027" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.ShareController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-4.1071428677241784E-4" y="105.0" />
+      <point x="5492.267" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.LoginController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="-4.1071428768191254E-4" y="105.0" />
+      <point x="2390.642" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.HomeController" target="com.example.triparchitect.packages.PackageFactory" relationship="CREATE">
+      <point x="-147.0" y="-0.0" />
+      <point x="4005.2674107142875" y="2894.5" />
+      <point x="-0.0" y="45.0" />
+    </edge>
+    <edge source="com.example.triparchitect.trips.NatureLoverTrip" target="com.example.triparchitect.trips.Trip" relationship="GENERALIZATION">
+      <point x="0.0" y="-57.0" />
+      <point x="5148.26011904762" y="1784.0" />
+      <point x="5066.044345238095" y="1784.0" />
+      <point x="0.0" y="144.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.SeniorBonus" target="com.example.triparchitect.users.User.Bonus" relationship="REALIZATION">
+      <point x="-45.0" y="-57.0" />
+      <point x="757.0" y="1422.0" />
+      <point x="773.5" y="1422.0" />
+      <point x="773.5" y="412.0" />
+      <point x="667.0101190476203" y="412.0" />
+      <point x="667.0101190476203" y="362.0" />
+      <point x="1417.5101190476205" y="362.0" />
+      <point x="-60.0" y="43.5" />
+    </edge>
+    <edge source="com.example.triparchitect.users.Student" target="com.example.triparchitect.users.User.StudentBonus" relationship="CREATE">
+      <point x="-100.43139880952549" y="-69.0" />
+      <point x="-0.0" y="57.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.StudentBonus" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="45.0" y="-57.0" />
+      <point x="140.33601190476156" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.AddToBPController" target="com.example.triparchitect.decorator.Item" relationship="CREATE">
+      <point x="-0.0" y="-105.0" />
+      <point x="3793.5101190476207" y="68.5" />
+      <point x="78.5" y="-0.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.Student" relationship="CREATE">
+      <point x="44.9996666666666" y="-93.0" />
+      <point x="3492.458" y="-31.5" />
+      <point x="-186.5" y="-31.5" />
+      <point x="-186.5" y="1891.5" />
+      <point x="-117.5" y="15.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.Foodie" target="com.example.triparchitect.users.User" relationship="INNER_CLASS">
+      <point x="-54.0" y="-58.5" />
+      <point x="1756.7674107142873" y="1432.0" />
+      <point x="1692.8333333333335" y="1432.0" />
+      <point x="1692.8333333333335" y="1392.0" />
+      <point x="2063.3924107142875" y="1392.0" />
+      <point x="-36.375" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.RegisterController" target="com.example.triparchitect.users.User" relationship="TO_ONE">
+      <point x="104.4996666666666" y="-0.0" />
+      <point x="3603.0" y="2114.0" />
+      <point x="3603.0" y="1768.0" />
+      <point x="2210.267" y="1768.0" />
+      <point x="110.49958928571232" y="468.0" />
+    </edge>
+    <edge source="com.example.triparchitect.users.User.Foodie" target="com.example.triparchitect.users.User.UserType" relationship="GENERALIZATION">
+      <point x="54.0" y="-58.5" />
+      <point x="1864.7674107142873" y="1422.0" />
+      <point x="1943.7674107142875" y="1422.0" />
+      <point x="1943.7674107142875" y="402.0" />
+      <point x="2384.8333333333335" y="402.0" />
+      <point x="2384.8333333333335" y="342.0" />
+      <point x="2483.7601190476207" y="342.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.23773482378512653" showDependencies="true" x="2165.638367346939" y="1873.8356122448984" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

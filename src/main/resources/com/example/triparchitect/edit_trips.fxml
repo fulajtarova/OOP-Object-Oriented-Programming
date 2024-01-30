@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="456.0" prefWidth="330.0" style="-fx-background-color: #F5F2EA;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.triparchitect.EditTripsController">
+   <children>
+      <Separator layoutX="22.0" layoutY="89.0" prefHeight="17.0" prefWidth="286.0" />
+      <Label fx:id="usernameLabel" alignment="CENTER" layoutY="127.0" prefHeight="55.0" prefWidth="330.0" textAlignment="CENTER" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="25.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="36.0" layoutY="51.0" prefHeight="47.0" prefWidth="259.0" text="Choose trip to edit" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="25.0" />
+         </font>
+      </Label>
+      <Button fx:id="confirmButton" layoutX="136.0" layoutY="416.0" mnemonicParsing="false" text="Confirm" />
+      <ChoiceBox fx:id="tripComboBox" layoutX="90.0" layoutY="114.0" prefWidth="150.0" />
+      <DatePicker fx:id="datePicker" layoutX="136.0" layoutY="186.0" />
+      <Label fx:id="previousDateLabel" alignment="CENTER" layoutX="40.0" layoutY="146.0" prefHeight="35.0" prefWidth="259.0" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="17.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="14.0" layoutY="175.0" prefHeight="47.0" prefWidth="125.0" text="New date:" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="17.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="deleteCheckBox" layoutX="94.0" layoutY="360.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="125.0" text="delete whole trip">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </CheckBox>
+      <Label alignment="CENTER" layoutX="27.0" layoutY="228.0" prefHeight="47.0" prefWidth="275.0" text="You can also add activity near your trip:" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="nearTripLabel" alignment="CENTER" layoutY="264.0" prefHeight="35.0" prefWidth="330.0" textAlignment="CENTER" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="16.0" />
+         </font>
+      </Label>
+      <CheckBox fx:id="nearTripCheckBox" layoutX="94.0" layoutY="316.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="141.0" text="add new activity">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </CheckBox>
+      <Label fx:id="budgetLabel" alignment="CENTER" layoutX="40.0" layoutY="14.0" prefHeight="41.0" prefWidth="259.0" textAlignment="CENTER" textFill="#4a332d">
+         <font>
+            <Font name="Eras Medium ITC" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="backButton" layoutX="16.0" layoutY="416.0" mnemonicParsing="false" text="Back" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="750.0" style="-fx-background-color: #F5F2EA;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.triparchitect.CarAnimationController">
+    <children>
+        <ImageView fx:id="carImageView" fitHeight="150.0" fitWidth="200.0" layoutX="14.0" layoutY="225.0" pickOnBounds="true" preserveRatio="true" />
+        <Label layoutX="110.0" layoutY="46.0" prefHeight="25.0" prefWidth="479.0" text="Travelling to the destination ..." textFill="#4a332d">
+            <font>
+                <Font name="Eras Bold ITC" size="30.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
